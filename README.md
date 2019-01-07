@@ -5,5 +5,5 @@ The stacking_model.ipynb is the file to define the different features used in th
 
 Then use the F1-score to evaluate this model, which is 0.838.
 
-You can find the original data and other files related to this project through the following address:
+You can find the original data related to this project through the following address:
 https://drive.google.com/open?id=1qLnbJAPXhuJ5DtG7H1rJP_t2tJbyk2-B
